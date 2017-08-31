@@ -18,7 +18,7 @@ if (!is_null($events['events'])) {
 
 			// Build message to reply back
 			$messages = [
-				'type' => "ได้เลย"+'text',
+				'type' => 'text',
 				'text' => $text
 			];
 
